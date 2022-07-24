@@ -4,8 +4,6 @@ Software Engineer & Leader
 
 **e-mail:** grigoriy@piskun.su | **phone:** +79869042101 | **timezone:** Moscow/GMT+3
 
-<hr/>
-
 # Overview
 
 Hi, comrades! I started my professional journey in the IT industry in 2010. Since then, my passion is collaboratively building modern computer systems using the latest technology, pragmatic thinking and adaptive processes.
