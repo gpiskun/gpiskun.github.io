@@ -6,11 +6,23 @@ Software Engineer & Leader
 
 # Overview
 
-Hi, comrades! I started my professional journey in the IT industry in 2010. Since then, my passion is collaboratively building modern computer systems using the latest technology, pragmatic thinking and adaptive processes.
+Hi, comrades! I started my professional journey in the IT industry in 2010. Since then, my passion is to build the modern computer systems collaboratively using the latest technology, pragmatic thinking and adaptive processes.
 
 # Achievements
 
-- **MessageMedia** (Jul 2019 - Jan 2022): **Team Lead / Principal Developer**
+- **yatuda.com** (May 2022 - now): **Head of Development**
+  - Invented the product name.
+  - Establised the fundamental processes in the company.
+  - Came up with the dev stack.
+  - Adopted the best CICD practices.
+  - Architectured the entire plarform.
+  - Build some of the key microservices from the ground up.
+  - Organized the customer support.
+  - Actively participating in the HR activities.
+  - Mentoring and motivating colleagues.
+  - Managing 4 dev teams: 2 backend, web front-end, ios and android.
+  - Still writing code and learning new technical things cause I love it!
+- **MessageMedia** (Jul 2019 - Jan 2022): **Team Lead / Principal**
   - Improved security posture of the organization by implementing the Single Sign-On login flow for customers and internal stuff.
   - Saved budget by decommissioning an expensive monolithic integration system and replacing it with a set of scalable, easy-maintained serverless components.
   - Uplifted the infrastructure provisioning practices by introducing the AWS Cloud Development Kit.
@@ -37,7 +49,7 @@ From Nov 2010 until Apr 2014, I worked as a back-end software engineer / team le
 
 # Toolkit
 
-Linux | Java | TypeScript | SQL | NoSQL | AWS | Docker | Kubernetes | Kafka | React | Math
+Linux | Java | TypeScript | SQL | NoSQL | Clouds | Docker | K8s | Message brokers | React | Rust
 
 # Education & Certification
 
