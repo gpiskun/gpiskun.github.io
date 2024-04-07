@@ -1,8 +1,8 @@
 # Grigoriy Piskun
 
-`Software Engineer & Leader`
+**Software Engineer & Leader**
 
-**e-mail:** grigoriy@piskun.su | **phone:** `+79869042101` | **timezone:** Moscow/GMT+3
+**phone:** `+79869042101` | **e-mail:** `grigoriy@piskun.su` | **timezone:** `MSK`
 
 # Overview
 
