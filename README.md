@@ -6,6 +6,8 @@ Software Engineer & Leader
 
 # Overview
 
+![ava](ava.png)
+
 Hi, comrades! I started my professional journey in the IT industry in 2010. Since then, my passion is to build the modern computer systems collaboratively using the latest technology, pragmatic thinking and adaptive processes.
 
 # Achievements
